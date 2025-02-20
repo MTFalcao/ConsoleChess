@@ -1,6 +1,6 @@
 # Programação em C#
 
-### <p align="left">Este repositório contém o projetos desenvolvido durante o curso de C#.</p>
+### <p align="left">Este repositório contém o projeto desenvolvido durante o curso de C# da Udemy.</p>
 
 ## Projeto
 
